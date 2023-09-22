@@ -1,0 +1,126 @@
+body {
+    font-family: 'Athiti';
+    background-color: #F6FBF4;
+   
+  }
+  
+  .container{
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+  } 
+  
+  
+  h1 {
+    font-weight: 300;
+  }
+  
+  h1 strong {
+    font-weight: 600;
+    color: #5FD068;
+  }
+  
+  .inputstyle {
+    width: 300px;
+    font-size: 20px;
+    padding: 10px !important;
+    border-radius: 10px;
+    border: 2px solid #5FD068;
+    background: #F6FBF4;
+  }
+  
+  .whoop {
+    background-color: #5FD068;
+    width: 8em;
+    border: 2px solid #5FD068;
+    border-radius: 10px;
+    font-size: 30px !important;
+    color: #ffffff;
+  }
+  .whoop:hover{
+    background: #b4f9b4;
+  }
+  
+  .alert-warning {
+    --bs-alert-color: #5FD068;
+    --bs-alert-bg: #f7f3e6;
+    --bs-alert-border-color: #ffecb5;
+  }
+  
+  .running{
+  width: 70px;
+  height: 70px;
+  flex-shrink: 0;
+  }
+  
+  .alert-danger {
+     --bs-alert-color: #000000;
+    --bs-alert-bg: #5FD068;
+    --bs-alert-border-color: #bbfdb2; 
+    border-radius: 10px;
+    
+  }
+  .work{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .caloriescont {
+    background-color: #ffffff;
+    padding: 30px;
+  }
+  
+  .caloriescont ul {
+    padding: 0px;
+  }
+  
+  .caloriescont ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #080808;
+    width: 80%;
+  }
+  .logo{
+    width:800px;
+    height: 300px;
+  }
+  .video{
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  .caloriescont h3 {
+    color: #5FD068;
+    font-size: 2em;
+    text-transform: capitalize;
+    font-weight: 700;
+  }
+  .alertsugar{
+    width: 880px;
+    height: 65px;
+    flex-shrink: 0;
+    color: #9a0303;
+    border-radius: 10px;
+    background: rgba(250, 115, 115, 0.65);
+  }
+  .alertsalt{
+    width: 880px;
+    height: 65px;
+    flex-shrink: 0;
+    color: #9a0303;
+    border-radius: 10px;
+    background: rgba(250, 115, 115, 0.65);
+  }
+  .caloriescont h5 {
+    color: #5FD068;
+  }
+  
+  .servingsize {
+    background-color: #5FD068;
+    padding: 10px;
+    color: #F6FBF4;
+  }
+  .textalert{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
