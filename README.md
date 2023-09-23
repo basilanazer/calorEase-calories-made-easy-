@@ -7,10 +7,20 @@ Our project aims to make health and fitness management not only achievable but a
 The application provides detailed nutritional information for each food item the user enters.	
 
 Nutritional data includes essential metrics such as calories, sodium, fat content, protein, and carbohydrates, offering a clear view of the user's dietary intake.
+
+<img width="960" alt="image" src="https://github.com/basilanazer/calorEase-calories-made-easy-/assets/119029240/928e19c7-d643-42d3-817d-f4314053d520">
+
 ### 2. Data Visualization:
 The application helps users visualize their calorie intake with a donut chart.
+
+<img width="960" alt="image" src="https://github.com/basilanazer/calorEase-calories-made-easy-/assets/119029240/64f92e95-a3d6-4812-9990-126d32daa679">
+
 ### 3. Exercise Recommendations:
 Based on the user's food intake and calories, the system generates personalized exercise recommendations.
+
+
+<img width="960" alt="image" src="https://github.com/basilanazer/calorEase-calories-made-easy-/assets/119029240/b757e38f-cdd6-46ed-808f-9288977a6c26">
+
 ## Tryout the app here
 <a href="https://calorease.basilanazer.repl.co/">CalorEase app</a>
 ## To Run this Project in your Device
