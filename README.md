@@ -27,7 +27,7 @@ Based on the user's food intake and calories, the system generates personalized 
 <a href="https://calorease.basilanazer.repl.co/">CalorEase app</a>
 # To Run this Project in your Device
 
-* Please ensure you have installed `<a href="https://www.python.org/downloads/">Python</a>` and the path is already added to the environment variables
+* Please ensure you have installed <a href="https://www.python.org/downloads/">`Python`</a> and the path is already added to the environment variables
 * If not Tick `Add to Path` while installing Python
 * Open the command prompt in your device navigate to the folder where you want the project and execute the following commands
 
