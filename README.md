@@ -58,8 +58,8 @@ To create a virtual environment
 * Now enter the URL `http://127.0.0.1:8000/` in Your Browser Installed On Your PC
 
 # Colaborators
-* <a href="https:/github.com/basilanazer/">Basila S Nazer</a>
-* <a href="https:/github.com/aparna240/">Aparna Krishnan</a>
+* <a href="https://github.com/basilanazer">Basila S Nazer</a>
+* <a href="https://github.com/aparna240">Aparna Krishnan</a>
 
 
 
