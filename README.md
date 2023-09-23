@@ -13,7 +13,7 @@ Nutritional data includes essential metrics such as calories, sodium, fat conten
 <img width="960" alt="image" src="https://github.com/basilanazer/calorEase-calories-made-easy-/assets/119029240/928e19c7-d643-42d3-817d-f4314053d520">
 
 ### 2. Data Visualization:
-The application helps users visualize their calorie intake with a donut chart.
+The application helps users visualize their calorie intake with a doughnut chart.
 
 <img width="960" alt="image" src="https://github.com/basilanazer/calorEase-calories-made-easy-/assets/119029240/64f92e95-a3d6-4812-9990-126d32daa679">
 
